@@ -2,6 +2,7 @@ README.md for Labs.Go project
 
 ### GoDocs
 * https://golang.org/
+* https://golang.org/doc/
 * https://golang.org/doc/effective_go.html
 
 ### Go Books
@@ -9,6 +10,8 @@ README.md for Labs.Go project
 * https://github.com/gobootcamp/book
 * https://www.udemy.com/the-go-programming-language-guide-code-like-a-pro/
 * https://leanpub.com/golangtipsforbeginners
+* https://manning.com/books/learn-go
+	* https://github.com/gopherbook/learn-go-code
 
 ### Go Courses
 * ...
