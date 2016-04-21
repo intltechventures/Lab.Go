@@ -65,7 +65,11 @@ HTTP/2 and http2 in Go 1.6
 * https://www.digitalocean.com/company/blog/get-your-development-team-started-with-go/ 
 * https://www.digitalocean.com/community/tutorials/how-to-use-martini-to-serve-go-applications-behind-an-nginx-server-on-ubuntu
 * https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker
+* https://blog.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/
+
 
 ### Interesting Go Packages
 * package oracle
 	* https://godoc.org/golang.org/x/tools/oracle
+
+
