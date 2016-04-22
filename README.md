@@ -72,4 +72,7 @@ HTTP/2 and http2 in Go 1.6
 * package oracle
 	* https://godoc.org/golang.org/x/tools/oracle
 
+	
+### Interesting Go Github Projects
+* https://github.com/FiloSottile/gvt
 
