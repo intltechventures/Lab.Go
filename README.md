@@ -76,3 +76,6 @@ HTTP/2 and http2 in Go 1.6
 ### Interesting Go Github Projects
 * https://github.com/FiloSottile/gvt
 * https://github.com/suzaku/shonenjump.git
+* https://github.com/bcicen/go-haproxy.git
+
+
