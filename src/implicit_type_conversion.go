@@ -8,6 +8,8 @@ import "fmt"
 
 type stack []uintptr 
 
+
+// an anon type can be converted to a named type implicitly
 func callers() stack { 
   return make([]uintptr, 20) 
 }
