@@ -1,11 +1,11 @@
 README.md for Labs.Go project
 
-### GoDocs
+GoDocs
 * https://golang.org/
 * https://golang.org/doc/
 * https://golang.org/doc/effective_go.html
 
-### Go Books
+Go Books
 * https://gobyexample.com/
 * https://github.com/gobootcamp/book
 * https://www.udemy.com/the-go-programming-language-guide-code-like-a-pro/
@@ -13,12 +13,12 @@ README.md for Labs.Go project
 * https://manning.com/books/learn-go
 	* https://github.com/gopherbook/learn-go-code
 
-### Go Courses
+Go Courses
 * ...
 
-### Go Conferences
+Go Conferences
 
-### Go Learning Resources
+Go Learning Resources
 * https://blog.gopheracademy.com/series/advent-2013/
 * https://blog.gopheracademy.com/series/advent-2014/
 * https://blog.gopheracademy.com/series/advent-2015/
@@ -61,21 +61,29 @@ HTTP/2 and http2 in Go 1.6
 * https://docs.google.com/presentation/d/1G9gPIAorTsVD_pMgEJcTGEjt5ApZZWyI2uO244_f7TU/present#slide=id.p
 
 
-### Go Articles
+Interesting Go Articles
 * https://www.digitalocean.com/company/blog/get-your-development-team-started-with-go/ 
 * https://www.digitalocean.com/community/tutorials/how-to-use-martini-to-serve-go-applications-behind-an-nginx-server-on-ubuntu
 * https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker
 * https://blog.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/
 * [Go Best Pratices, Six Year In, Peter Bourgon] (https://peter.bourgon.org/go-best-practices-2016/)
 
-### Interesting Go Packages
+Interesting Go Packages
 * package oracle
 	* https://godoc.org/golang.org/x/tools/oracle
 
 	
-### Interesting Go Github Projects
+Interesting Go Github Projects
 * https://github.com/FiloSottile/gvt
 * https://github.com/suzaku/shonenjump.git
 * https://github.com/bcicen/go-haproxy.git
 * https://github.com/Netflix/hal-9001.git
 * https://github.com/square/go-jose.git
+* https://github.com/prometheus/prometheus
+* https://github.com/go-playground/stats
+* https://github.com/go-playground/spoon
+
+
+Interesting Github Accounts
+* https://github.com/go-playground
+
