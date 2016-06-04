@@ -4,6 +4,8 @@ GoDocs
 * https://golang.org/
 * https://golang.org/doc/
 * https://golang.org/doc/effective_go.html
+* https://golang.org/doc/code.html
+
 
 Go Books
 * https://gobyexample.com/
@@ -17,6 +19,12 @@ Go Courses
 * ...
 
 Go Conferences
+
+
+
+Go News Resources
+* 
+* https://groups.google.com/forum/#!forum/golang-nuts
 
 Go Learning Resources
 * https://blog.gopheracademy.com/series/advent-2013/
