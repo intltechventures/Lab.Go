@@ -90,7 +90,7 @@ Interesting Go Github Projects
 * https://github.com/prometheus/prometheus
 * https://github.com/go-playground/stats
 * https://github.com/go-playground/spoon
-
+* https://github.com/moovweb/gvm
 
 Interesting Github Accounts
 * https://github.com/go-playground
