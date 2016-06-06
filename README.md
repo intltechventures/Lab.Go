@@ -91,7 +91,14 @@ Interesting Go Github Projects
 * https://github.com/go-playground/stats
 * https://github.com/go-playground/spoon
 * https://github.com/moovweb/gvm
+* https://github.com/smartystreets/goconvey
+* https://github.com/spf13/cobra
+
 
 Interesting Github Accounts
 * https://github.com/go-playground
+
+Interesting Go Articles
+* http://www.dwmkerr.com/is-it-worth-persevering-with-golang/
+
 
