@@ -93,6 +93,7 @@ Interesting Go Github Projects
 * https://github.com/moovweb/gvm
 * https://github.com/smartystreets/goconvey
 * https://github.com/spf13/cobra
+* https://github.com/nathanjsweet/zsocket
 
 
 Interesting Github Accounts
