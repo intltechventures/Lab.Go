@@ -95,6 +95,7 @@ Interesting Go Github Projects
 * https://github.com/spf13/cobra
 * https://github.com/nathanjsweet/zsocket
 * https://github.com/fsaravia/awsign
+* https://github.com/gorilla/websocket
 
 
 Interesting Github Accounts
