@@ -97,6 +97,7 @@ Interesting Go Github Projects
 * https://github.com/fsaravia/awsign
 * https://github.com/gorilla/websocket
 * https://github.com/intelsdi-x/snap
+* https://github.com/intelsdi-x/gomit
 
 Interesting Github Accounts
 * https://github.com/go-playground
