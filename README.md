@@ -98,6 +98,7 @@ Interesting Go Github Projects
 * https://github.com/gorilla/websocket
 * https://github.com/intelsdi-x/snap
 * https://github.com/intelsdi-x/gomit
+* https://github.com/go-kit/kit
 
 Interesting Github Accounts
 * https://github.com/go-playground
