@@ -99,6 +99,8 @@ Interesting Go Github Projects
 * https://github.com/intelsdi-x/snap
 * https://github.com/intelsdi-x/gomit
 * https://github.com/go-kit/kit
+* https://github.com/zyedidia/micro
+
 
 Interesting Github Accounts
 * https://github.com/go-playground
