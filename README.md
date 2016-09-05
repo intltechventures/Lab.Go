@@ -104,6 +104,8 @@ Interesting Go Github Projects
 
 Interesting Github Accounts
 * https://github.com/go-playground
+* https://github.com/kelseyhightower
+
 
 Interesting Go Articles
 * http://www.dwmkerr.com/is-it-worth-persevering-with-golang/
