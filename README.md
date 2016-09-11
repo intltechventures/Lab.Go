@@ -100,6 +100,7 @@ Interesting Go Github Projects
 * https://github.com/intelsdi-x/gomit
 * https://github.com/go-kit/kit
 * https://github.com/zyedidia/micro
+* https://github.com/GoClipse/
 
 
 Interesting Github Accounts
