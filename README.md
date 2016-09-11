@@ -112,3 +112,7 @@ Interesting Go Articles
 
 Interesting Third-Party Go Tooling
 * https://getgb.io/
+
+
+Notepad++ Go Language Definition File
+* http://go-lang.cat-v.org/text-editors/notepad-plus-plus/
