@@ -5,6 +5,9 @@ GoDocs
 * https://golang.org/doc/
 * https://golang.org/doc/effective_go.html
 * https://golang.org/doc/code.html
+* https://godoc.org/golang.org/x/tools
+* https://docs.google.com/document/d/1_Y9xCEMj5S-7rv2ooHpZNH15JgRT5iM742gJkw5LtmQ/edit
+  * https://godoc.org/golang.org/x/tools/cmd/guru
 
 
 Go Books
@@ -22,9 +25,10 @@ Go Conferences
 
 
 
-Go News Resources
-* 
+Go News Resources 
 * https://groups.google.com/forum/#!forum/golang-nuts
+
+
 
 Go Learning Resources
 * https://blog.gopheracademy.com/series/advent-2013/
@@ -101,6 +105,11 @@ Interesting Go Github Projects
 * https://github.com/go-kit/kit
 * https://github.com/zyedidia/micro
 * https://github.com/GoClipse/
+  * https://github.com/GoClipse/goclipse/blob/latest/documentation/UserGuide.md
+  * https://github.com/GoClipse/goclipse/blob/latest/documentation/Features.md#ddt-features
+* https://github.com/nsf/gocode
+* https://github.com/rogpeppe/godef
+
 
 
 Interesting Github Accounts
