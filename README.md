@@ -116,3 +116,4 @@ Interesting Third-Party Go Tooling
 
 Notepad++ Go Language Definition File
 * http://go-lang.cat-v.org/text-editors/notepad-plus-plus/
+  * http://stackoverflow.com/questions/27747457/golang-plugin-on-notepad
