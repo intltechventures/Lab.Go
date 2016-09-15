@@ -115,6 +115,8 @@ Interesting Go Github Projects
 Interesting Github Accounts
 * https://github.com/go-playground
 * https://github.com/kelseyhightower
+* https://github.com/crufter
+* https://github.com/davecheney
 
 
 Interesting Go Articles
