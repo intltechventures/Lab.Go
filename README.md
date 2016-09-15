@@ -86,6 +86,7 @@ Interesting Go Packages
 
 	
 Interesting Go Github Projects
+* https://github.com/crufter/awesome-microservices
 * https://github.com/FiloSottile/gvt
 * https://github.com/suzaku/shonenjump.git
 * https://github.com/bcicen/go-haproxy.git
