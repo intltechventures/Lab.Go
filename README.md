@@ -1,6 +1,6 @@
 README.md for Labs.Go project
 
-GoDocs
+Go Resources
 * https://golang.org/
 * https://golang.org/doc/
 * https://golang.org/doc/effective_go.html
@@ -8,6 +8,7 @@ GoDocs
 * https://godoc.org/golang.org/x/tools
 * https://docs.google.com/document/d/1_Y9xCEMj5S-7rv2ooHpZNH15JgRT5iM742gJkw5LtmQ/edit
   * https://godoc.org/golang.org/x/tools/cmd/guru
+* https://go-review.googlesource.com
 
 
 Go Books
