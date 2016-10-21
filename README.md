@@ -112,7 +112,7 @@ Interesting Go Github Projects
   * https://github.com/GoClipse/goclipse/blob/latest/documentation/Features.md#ddt-features
 * https://github.com/nsf/gocode
 * https://github.com/rogpeppe/godef
-
+* https://github.com/AsynkronIT/gam
 
 
 Interesting Github Accounts
