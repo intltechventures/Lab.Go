@@ -23,7 +23,7 @@ Go Courses
 * ...
 
 Go Conferences
-
+* https://twitter.com/dotGoEu
 
 
 Go News Resources 
