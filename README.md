@@ -125,6 +125,7 @@ Interesting Github Accounts
 
 Interesting Go Articles
 * http://www.dwmkerr.com/is-it-worth-persevering-with-golang/
+* http://www.thedotpost.com/2016/10/rhys-hiltner-go-execution-tracer
 
 Interesting Third-Party Go Tooling
 * https://getgb.io/
