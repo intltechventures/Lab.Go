@@ -115,6 +115,9 @@ Interesting Go Github Projects
 * https://github.com/AsynkronIT/gam
 * https://github.com/mweagle/Sparta
   * http://gosparta.io/
+* https://github.com/jochasinga/RxGo/
+
+
 
 Interesting Github Accounts
 * https://github.com/go-playground
