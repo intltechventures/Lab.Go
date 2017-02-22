@@ -117,6 +117,8 @@ Interesting Go Github Projects
   * http://gosparta.io/
 * https://github.com/jochasinga/RxGo/
 
+  
+https://github.com/trending/go 
 
 
 Interesting Github Accounts
