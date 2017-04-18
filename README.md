@@ -67,6 +67,8 @@ Go Learning Resources
 	* http://dave.cheney.net/resources-for-new-go-programmers
 
 	* https://github.com/pusher/pusher-http-go
+* https://github.com/ardanlabs/gotraining
+
 
 HTTP/2 and http2 in Go 1.6 
 * https://docs.google.com/presentation/d/1G9gPIAorTsVD_pMgEJcTGEjt5ApZZWyI2uO244_f7TU/present#slide=id.p
@@ -116,8 +118,22 @@ Interesting Go Github Projects
 * https://github.com/mweagle/Sparta
   * http://gosparta.io/
 * https://github.com/jochasinga/RxGo/
-
+* https://github.com/onsi/gomega
+* https://github.com/spf13/cobra
+* https://github.com/GoogleCloudPlatform/golang-samples
   
+  
+Useful Go Test Tooling
+* https://concourse.ci/
+* http://onsi.github.io/ginkgo/
+  * https://github.com/onsi/ginkgo
+* http://onsi.github.io/gomega/
+  * https://github.com/onsi/gomega
+* http://agouti.org/
+  * https://github.com/sclevine/agouti
+
+
+
 https://github.com/trending/go 
 
 
@@ -126,11 +142,16 @@ Interesting Github Accounts
 * https://github.com/kelseyhightower
 * https://github.com/crufter
 * https://github.com/davecheney
+* Francesc Campoy
+  * https://campoy.cat/
+  * https://github.com/campoy
+  * https://twitter.com/francesc
 
 
 Interesting Go Articles
 * 2017
   * https://talks.golang.org/2017/state-of-go.slide#1
+  * https://speakerdeck.com/campoy/understanding-the-interface
 * 2016
   * http://www.dwmkerr.com/is-it-worth-persevering-with-golang/
   * http://www.thedotpost.com/2016/10/rhys-hiltner-go-execution-tracer
