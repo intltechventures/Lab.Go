@@ -119,6 +119,10 @@ Interesting Go Github Projects
   * http://gosparta.io/
 * https://github.com/jochasinga/RxGo/
 * https://github.com/onsi/gomega
+* https://gobot.io/
+  * https://github.com/hybridgroup/gobot
+  * https://github.com/hybridgroup
+* https://github.com/efarres/GoRaspberry
 * https://github.com/spf13/cobra
 * https://github.com/GoogleCloudPlatform/golang-samples
   
