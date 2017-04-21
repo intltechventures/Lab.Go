@@ -28,7 +28,7 @@ Go Conferences
 
 Go News Resources 
 * https://groups.google.com/forum/#!forum/golang-nuts
-
+* https://twitter.com/GoTimeFM
 
 
 Go Learning Resources
@@ -124,6 +124,8 @@ Interesting Go Github Projects
   * https://github.com/hybridgroup
 * https://github.com/efarres/GoRaspberry
 * https://github.com/spf13/cobra
+* https://github.com/adnanh/webhook
+  * https://github.com/adnanh/webhook/wiki/Hook-Examples
 * https://github.com/GoogleCloudPlatform/golang-samples
   
   
