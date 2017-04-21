@@ -32,6 +32,8 @@ Go News Resources
 
 
 Go Learning Resources
+* JustForFunc
+  * https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw/videos
 * https://blog.gopheracademy.com/series/advent-2013/
 * https://blog.gopheracademy.com/series/advent-2014/
 * https://blog.gopheracademy.com/series/advent-2015/
