@@ -160,6 +160,7 @@ Interesting Go Articles
 * 2017
   * https://talks.golang.org/2017/state-of-go.slide#1
   * https://speakerdeck.com/campoy/understanding-the-interface
+  * https://dev.to/klnusbaum/why-im-so-frustrated-withgo
 * 2016
   * http://www.dwmkerr.com/is-it-worth-persevering-with-golang/
   * http://www.thedotpost.com/2016/10/rhys-hiltner-go-execution-tracer
