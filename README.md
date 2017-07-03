@@ -130,7 +130,11 @@ Interesting Go Github Projects
   * https://github.com/adnanh/webhook/wiki/Hook-Examples
 * https://github.com/GoogleCloudPlatform/golang-samples
   
-  
+ 
+Microservices related Github projects
+* https://github.com/goby-lang/goby
+
+
 Useful Go Test Tooling
 * https://concourse.ci/
 * http://onsi.github.io/ginkgo/
