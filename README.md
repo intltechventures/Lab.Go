@@ -166,6 +166,7 @@ Interesting Go Articles
   * https://speakerdeck.com/campoy/understanding-the-interface
   * https://dev.to/klnusbaum/why-im-so-frustrated-withgo
   * https://dev.to/joncalhoun/using-code-generation-to-survive-without-generics-in-go
+  * https://code.tutsplus.com/tutorials/3-things-that-make-go-different--cms-28864
 * 2016
   * http://www.dwmkerr.com/is-it-worth-persevering-with-golang/
   * http://www.thedotpost.com/2016/10/rhys-hiltner-go-execution-tracer
