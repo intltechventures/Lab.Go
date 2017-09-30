@@ -112,8 +112,11 @@ Interesting Go Github Projects
 * https://github.com/go-kit/kit
 * https://github.com/zyedidia/micro
 * https://github.com/GoClipse/
-  * https://github.com/GoClipse/goclipse/blob/latest/documentation/UserGuide.md
-  * https://github.com/GoClipse/goclipse/blob/latest/documentation/Features.md#ddt-features
+  * https://github.com/GoClipse/goclipse
+  * "As of 2017, Goclipse is no longer actively maintained"
+    * http://pureconcepture.blogspot.co.uk/2017/07/goodbye-to-eclipse-end-of-era-for.html
+      * https://github.com/GoClipse/goclipse/blob/latest/documentation/UserGuide.md
+      * https://github.com/GoClipse/goclipse/blob/latest/documentation/Features.md#ddt-features
 * https://github.com/nsf/gocode
 * https://github.com/rogpeppe/godef
 * https://github.com/AsynkronIT/gam
