@@ -10,6 +10,9 @@ Go Resources
   * https://godoc.org/golang.org/x/tools/cmd/guru
 * https://go-review.googlesource.com
 
+Visual Studio Support for Go
+* https://marketplace.visualstudio.com/items?itemName=lukehoban.Go#goforvscode
+
 
 Go Books
 * https://gobyexample.com/
