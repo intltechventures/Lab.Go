@@ -74,6 +74,10 @@ Go Learning Resources
 	* https://github.com/pusher/pusher-http-go
 * https://github.com/ardanlabs/gotraining
 
+* Fast and Elegant Scraping Framework for Golang 
+* http://go-colly.org/
+* https://github.com/gocolly/colly
+
 
 HTTP/2 and http2 in Go 1.6 
 * https://docs.google.com/presentation/d/1G9gPIAorTsVD_pMgEJcTGEjt5ApZZWyI2uO244_f7TU/present#slide=id.p
