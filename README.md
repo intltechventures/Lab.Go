@@ -90,7 +90,12 @@ Interesting Go Articles
 * https://www.digitalocean.com/community/tutorials/how-to-use-martini-to-serve-go-applications-behind-an-nginx-server-on-ubuntu
 * https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker
 * https://blog.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/
-* [Go Best Pratices, Six Year In, Peter Bourgon] (https://peter.bourgon.org/go-best-practices-2016/)
+* 2016
+  * [Go Best Pratices, Six Year In, Peter Bourgon] (https://peter.bourgon.org/go-best-practices-2016/)
+* 2015
+  * http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/
+
+
 
 Interesting Go Packages
 * package oracle
@@ -180,6 +185,7 @@ Interesting Go Articles
 * 2016
   * http://www.dwmkerr.com/is-it-worth-persevering-with-golang/
   * http://www.thedotpost.com/2016/10/rhys-hiltner-go-execution-tracer
+
 
 Interesting Third-Party Go Tooling
 * https://getgb.io/
