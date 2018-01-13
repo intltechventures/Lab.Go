@@ -190,6 +190,9 @@ Interesting Go Articles
 Interesting Third-Party Go Tooling
 * https://getgb.io/
 
+VIM Plugin
+* https://github.com/fatih/vim-go
+
 
 Notepad++ Go Language Definition File
 * http://go-lang.cat-v.org/text-editors/notepad-plus-plus/
