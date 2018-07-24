@@ -1,5 +1,7 @@
 package main
 
+// re: https://golangcode.com/how-to-check-if-a-string-is-a-url/ 
+
 import (
   "fmt"
   "net/url"
