@@ -2,7 +2,8 @@ package main
 
 /*
 
-The intent of this bit of code is to explore the various features within the Go library for validating both the format of an URL - and whether there it is reachable.
+The intent of this bit of code is to explore the various features within the Go library for validating both the format of an URL -
+and whether there it is reachable.
 
 
 I found these resources to be helpful in initially guiding my exploration:
@@ -17,7 +18,6 @@ I found these resources to be helpful in initially guiding my exploration:
   re: 
     https://stackoverflow.com/questions/42226947/check-if-a-url-is-reachable-using-golang
 
-
 */
 
 import (
@@ -27,21 +27,49 @@ import (
   "time"
 )
 
+/*
+Future Planned Enhancements:
+- Add additional test scenarios to explore more of the RFC-3986 specification
+- Add additional test scenarios to explore more of the Go net library features
+- Have a default set of test URLs defined as an array, and iterate over them
+- Add support for command line parameters to allow passing in a single external URL, or a file (list of URLs) to be passed
+- Refactor to support the Unix prgramming chaining paradigm
+- Product-ize the code - so it is suitable for production deployment (for inclusion in a future ITV utility library)
+- Add support for logging
+- Add support for a report output
+*/
+
 func main() {
-  // expect true, returns true
-  isValidURL("http://www.intltechventures.com")
+  // expect true, returns true - GET response: 200 OK
+  t1 :="http://www.intltechventures.com"
+  isValidURL(t1)
+  doGet(t1)
 
   // expect false, returns true
-  isValidURL("http://")
+  t2 := "http://"
+  isValidURL(t2)
+  doGet(t2)
   
   // expect false, returns false
-  isValidURL("http")
+  t3 := "http"
+  isValidURL(t3)
+  doGet(t3)
 
   // expect false, returns true
-  isValidURL("http:www.intltechventures.com")
+  t4 := "http:www.intltechventures.com" 
+  isValidURL(t4)
+  doGet(t4)
 
   // expect false, returns false
-  isValidURL("intltechventures.com")
+  t5 := "intltechventures.com"
+  isValidURL(t5)
+  doGet(t5)
+
+  // expect true, returns true - GET response: No such host
+  t6 := "http://www.intltechventuresmmm.com"
+  isValidURL(t6)
+  doGet(t6)
+
 }
 
 
@@ -52,11 +80,9 @@ func isValidURL(urlString string) bool {
   fmt.Println(u)
   if err != nil {
     fmt.Println("\t\tisValidURL(): FALSE")
-    doGet(urlString)
     return false
   } else {
     fmt.Println("\t\tisValidURL(): TRUE")
-    doGet(urlString)
     return true
   }
 }
