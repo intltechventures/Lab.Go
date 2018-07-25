@@ -16,7 +16,7 @@ URL to Parse: http
 URL to Parse: http:www.intltechventures.com
         URL as Parsed: http:www.intltechventures.com
                 isValidURL(): TRUE
-        doGet() Error: Get http:www.intltechventures.com: http: no Host in reque                                        st URL
+        doGet() Error: Get http:www.intltechventures.com: http: no Host in request URL
 
 URL to Parse: intltechventures.com
         URL as Parsed: <nil>
