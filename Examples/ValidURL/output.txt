@@ -1,0 +1,25 @@
+URL to Parse: http://www.intltechventures.com
+        URL as Parsed: http://www.intltechventures.com
+                isValidURL(): TRUE
+        doGet() Response Status: È200 OK
+
+URL to Parse: http://
+        URL as Parsed: http:
+                isValidURL(): TRUE
+        doGet() Error: Get http:: http: no Host in request URL
+
+URL to Parse: http
+        URL as Parsed: <nil>
+                isValidURL(): FALSE
+        doGet() Error: Get http: unsupported protocol scheme ""
+
+URL to Parse: http:www.intltechventures.com
+        URL as Parsed: http:www.intltechventures.com
+                isValidURL(): TRUE
+        doGet() Error: Get http:www.intltechventures.com: http: no Host in reque                                        st URL
+
+URL to Parse: intltechventures.com
+        URL as Parsed: <nil>
+                isValidURL(): FALSE
+        doGet() Error: Get intltechventures.com: unsupported protocol scheme ""
+
