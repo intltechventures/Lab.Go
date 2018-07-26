@@ -1,3 +1,4 @@
+
 URL to Parse: http://www.intltechventures.com
         URL as Parsed: http://www.intltechventures.com
                 isValidURL(): TRUE
@@ -22,4 +23,9 @@ URL to Parse: intltechventures.com
         URL as Parsed: <nil>
                 isValidURL(): FALSE
         doGet() Error: Get intltechventures.com: unsupported protocol scheme ""
+
+URL to Parse: http://www.intltechventuresmmm.com
+        URL as Parsed: http://www.intltechventuresmmm.com
+                isValidURL(): TRUE
+        doGet() Error: Get http://www.intltechventuresmmm.com: dial tcp: lookup www.intltechventuresmmm.com: no such host
 
