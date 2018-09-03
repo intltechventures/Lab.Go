@@ -145,7 +145,11 @@ Interesting Go Github Projects
   * https://github.com/adnanh/webhook/wiki/Hook-Examples
 * https://github.com/GoogleCloudPlatform/golang-samples
   
- 
+
+Web Development Frameworks
+* https://gohugo.io/
+
+
 Microservices related Github projects
 * https://github.com/goby-lang/goby
 
