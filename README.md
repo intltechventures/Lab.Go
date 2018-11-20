@@ -199,7 +199,10 @@ VIM Plugin
 
 
 Notepad++ Go Language Definition File
-* http://go-lang.cat-v.org/text-editors/notepad-plus-plus/
+* 2016...
+  * https://github.com/tlowry/npp-golang
+* (Older...)
+  * http://go-lang.cat-v.org/text-editors/notepad-plus-plus/
   * http://go-lang.cat-v.org/text-editors/notepad-plus-plus/go.xml
   * https://gist.github.com/blinksmith/99e5234ea601af8ba8bfab35c8fbebef
   * https://stackoverflow.com/questions/27747457/golang-plugin-on-notepad
