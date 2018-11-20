@@ -35,6 +35,10 @@ Go News Resources
 
 
 Go Learning Resources
+* Geting Started...
+  * https://golang.org/doc/install
+  * https://medium.com/rungo/working-in-go-workspace-3b0576e0534a
+
 * JustForFunc
   * https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw/videos
 * https://blog.gopheracademy.com/series/advent-2013/
