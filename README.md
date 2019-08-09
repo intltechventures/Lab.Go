@@ -1,9 +1,8 @@
-Lab.Go 
-====
+# Lab.Go 
 (README.md for Labs.Go project)
 
 
-### Go Resources
+## Go Resources
 * https://golang.org/
 * https://golang.org/doc/
 * https://golang.org/doc/effective_go.html
@@ -13,17 +12,19 @@ Lab.Go
   * https://godoc.org/golang.org/x/tools/cmd/guru
 * https://go-review.googlesource.com
 
-### Go Source (git)
+
+## Go Source (git)
 * https://go.googlesource.com/?format=HTML
 
 
 * https://jfrog.com/gocenter/
 
-### Visual Studio Support for Go
+
+## Visual Studio Support for Go
 * https://marketplace.visualstudio.com/items?itemName=lukehoban.Go#goforvscode
 
 
-### Go Books
+## Go Books
 * https://gobyexample.com/
 * https://github.com/gobootcamp/book
 * https://www.udemy.com/the-go-programming-language-guide-code-like-a-pro/
@@ -31,19 +32,23 @@ Lab.Go
 * https://manning.com/books/learn-go
 	* https://github.com/gopherbook/learn-go-code
 
-### Go Courses
+## Go Courses
 * ...
 
-### Go Conferences
+## Go Conferences
 * https://twitter.com/dotGoEu
 
 
-### Go News Resources 
+## Go News Resources 
 * https://groups.google.com/forum/#!forum/golang-nuts
 * https://twitter.com/GoTimeFM
 
 
-### Go Learning Resources
+## Go Learning Resources
+* https://tour.golang.org/list
+  + https://tour.golang.org
+
+
 * Geting Started...
   * https://golang.org/doc/install
   * https://medium.com/rungo/working-in-go-workspace-3b0576e0534a
@@ -110,12 +115,12 @@ HTTP/2 and http2 in Go 1.6
 
 
 
-### Interesting Go Packages
+## Interesting Go Packages
 * package oracle
 	* https://godoc.org/golang.org/x/tools/oracle
 
 	
-### Interesting Go Github Projects
+## Interesting Go Github Projects
 * https://github.com/crufter/awesome-microservices
 * https://github.com/hashicorp/consul.git
 * https://github.com/FiloSottile/gvt
@@ -159,15 +164,15 @@ HTTP/2 and http2 in Go 1.6
 * https://github.com/GoogleCloudPlatform/golang-samples
   
 
-### Web Development Frameworks
+## Web Development Frameworks
 * https://gohugo.io/
 
 
-### Microservices related Github projects
+## Microservices related Github projects
 * https://github.com/goby-lang/goby
 
 
-### Useful Go Test Tooling
+## Useful Go Test Tooling
 * https://concourse.ci/
 * http://onsi.github.io/ginkgo/
   * https://github.com/onsi/ginkgo
@@ -178,10 +183,10 @@ HTTP/2 and http2 in Go 1.6
 
 
 
-https://github.com/trending/go 
+- https://github.com/trending/go 
 
 
-### Interesting Github Accounts
+## Interesting Github Accounts
 * https://github.com/go-playground
 * https://github.com/kelseyhightower
 * https://github.com/crufter
@@ -192,7 +197,7 @@ https://github.com/trending/go
   * https://twitter.com/francesc
 
 
-### Interesting Go Articles 
+## Interesting Go Articles 
 * 2017
   * https://talks.golang.org/2017/state-of-go.slide#1
   * https://speakerdeck.com/campoy/understanding-the-interface
@@ -204,15 +209,15 @@ https://github.com/trending/go
   * http://www.thedotpost.com/2016/10/rhys-hiltner-go-execution-tracer
 
 
-### Interesting Third-Party Go Tooling
+## Interesting Third-Party Go Tooling
 * https://getgb.io/
 
 
-### VIM Plugin
+## VIM Plugin
 * https://github.com/fatih/vim-go
 
 
-### Notepad++ Go Language Definition File
+## Notepad++ Go Language Definition File
 * http://docs.notepad-plus-plus.org/index.php?title=User_Defined_Language_Files
 * 2016...
   * https://github.com/tlowry/npp-golang
