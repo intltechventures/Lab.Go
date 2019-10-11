@@ -13,6 +13,11 @@
 * https://go-review.googlesource.com
 
 
+
+## Exemplars of Style Guides
+- https://github.com/uber-go/guide/blob/master/style.md
+
+
 ## Go Source (git)
 * https://go.googlesource.com/?format=HTML
 
