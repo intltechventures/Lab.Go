@@ -167,7 +167,10 @@ HTTP/2 and http2 in Go 1.6
 * https://github.com/adnanh/webhook
   * https://github.com/adnanh/webhook/wiki/Hook-Examples
 * https://github.com/GoogleCloudPlatform/golang-samples
-  
+
+- https://github.com/qri-io/jsonschema
+  + golang implementation of https://json-schema.org drafts 7 & 2019-09 
+
 
 ## Web Development Frameworks
 * https://gohugo.io/
