@@ -206,13 +206,32 @@ HTTP/2 and http2 in Go 1.6
 
 
 ## Interesting Go Articles 
-* 2017
+### 2023 
+
+
+### 2022
+
+
+### 2021
+- https://jesseduffield.com/
+  + an article series "Go'ing Insane"
+  + [Part One: Endless Error Handling](https://jesseduffield.com/Gos-Shortcomings-1/)
+  + [Part One (Bonus): Questionable Questionmarks](https://jesseduffield.com/Questionable-Questionmarks/)
+  + [Part Two: Partial Privacy](https://jesseduffield.com/Gos-Shortcomings-2/)
+  + [Part Three: Imperfect Interfaces](https://jesseduffield.com/Gos-Shortcomings-3/)
+  + [Part Four: Mandatory Mutation](https://jesseduffield.com/Gos-Shortcomings-4/)
+  + [Part Five: Crazy Conventions](https://jesseduffield.com/Gos-Shortcomings-5/)
+
+
+### 2017
   * https://talks.golang.org/2017/state-of-go.slide#1
   * https://speakerdeck.com/campoy/understanding-the-interface
   * https://dev.to/klnusbaum/why-im-so-frustrated-withgo
   * https://dev.to/joncalhoun/using-code-generation-to-survive-without-generics-in-go
   * https://code.tutsplus.com/tutorials/3-things-that-make-go-different--cms-28864
-* 2016
+
+
+### 2016
   * http://www.dwmkerr.com/is-it-worth-persevering-with-golang/
   * http://www.thedotpost.com/2016/10/rhys-hiltner-go-execution-tracer
 
